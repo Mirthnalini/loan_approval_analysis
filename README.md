@@ -51,7 +51,7 @@ The Power BI dashboard includes:
 -Interactive employment filters
 
 ## Dashboard Preview
-[Dashboard Screenshot](dashboard.png)
+[Dashboard Screenshot](dashboard-screenshot.png)
 
 ## SQL Analysis Queries
 
