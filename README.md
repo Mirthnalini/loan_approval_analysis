@@ -80,6 +80,14 @@ Loan default prediction model
 Machine learning risk scoring
 Automated loan eligibility system
 
+## Project Workflow
+
+1. Data Collection
+2. Data Storage in PostgreSQL
+3. SQL Data Analysis
+4. Data Visualization in Power BI
+5. Business Insights Generation
+
 ## Author
 Mirthnalini Shanmugasundaram
 Aspiring Business Analyst | Data Analyst
