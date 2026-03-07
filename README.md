@@ -50,8 +50,8 @@ The Power BI dashboard includes:
 -Loan amount vs monthly income analysis
 -Interactive employment filters
 
-## Dashboard preview
-<img width="1289" height="733" alt="dashboard-screenshot" src="https://github.com/user-attachments/assets/b233c49c-04ce-4f21-b124-41fd60c430ae" />
+## Dashboard Preview
+[Dashboard Screenshot](dashboard.png)
 
 ## SQL Analysis Queries
 
@@ -66,6 +66,8 @@ FROM loan_data
 GROUP BY approval_status;
 ```
 Above mentioned is a sample code
+Full SQL script available here:
+[loan_analysis_queries.sql](loan_analysis_queries.sql)
 
 ## Business value
 -This analysis helps organizations:
