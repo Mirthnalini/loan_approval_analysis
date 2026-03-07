@@ -1,4 +1,4 @@
-# Loan approval analytics dashboard
+# Loan Approval Analytics Dashboard
 ## Project Overview
 This project analyzes loan approval patterns using SQL and Power BI to identify key factors influencing loan approvals such as credit score, employment type, income, and loan amount.
 The objective is to help financial institutions understand approval trends, identify risk factors, and improve decision-making using data-driven insights.
